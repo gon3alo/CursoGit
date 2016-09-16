@@ -1,8 +1,10 @@
 # CursoGit
 CursoGit
 
-VÌctor es tonto
+V√≠ctor es tonto
 
-RubÈn es un modorro
+Rub√©n es un modorro
 
-Javi es rusÛfilo
+Javi es rus√≥filo
+
+Esto est√° to mal se√±or Sato
