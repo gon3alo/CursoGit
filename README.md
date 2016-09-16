@@ -8,3 +8,5 @@ Rubén es un modorro y Javaphóbico
 Javi es rusófilo
 
 Ángel come empanadas
+
+Bárbara es vecina mía
