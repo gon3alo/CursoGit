@@ -10,3 +10,5 @@ Javi es rusófilo
 Ángel come empanadas
 
 Bárbara es vecina mía
+
+Javi es Germánico
