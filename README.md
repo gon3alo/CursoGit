@@ -7,4 +7,4 @@ Rubén es un modorro y Javaphóbico
 
 Javi es rusófilo
 
-Ángel come muchas empanadas
+Ángel come empanadas
